@@ -1,9 +1,10 @@
 # ZSH Docker Phoenix Aliases
 
+:warning: **Work in progress** :warning:
+
 A set of aliases to use [Docker](https://www.docker.com/) with [Phoenix](http://phoenixframework.org/) applications.
 
 ## Installation
-
 
 ```bash
 user@computer:~$ git clone https://github.com/dreamingechoes/zsh-docker-phoenix-aliases ~/.oh-my-zsh/custom/plugins/zsh-docker-phoenix-aliases
@@ -16,6 +17,8 @@ plugins = ( zsh-docker-phoenix-aliases )
 ```
 
 ## Aliases
+
+List of aliases:
 
 ### General
 
