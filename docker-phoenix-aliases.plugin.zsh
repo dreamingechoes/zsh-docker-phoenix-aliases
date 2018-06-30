@@ -15,6 +15,7 @@ fi
 #
 
 # General
-
+alias dcu='docker-compose up'
+alias dcbw='docker-compose build web'
 
 # Mix tasks
