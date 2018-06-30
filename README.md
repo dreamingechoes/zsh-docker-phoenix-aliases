@@ -17,6 +17,10 @@ plugins = ( zsh-docker-phoenix-aliases )
 
 ## Aliases
 
+### General
+
+alias dcu='docker-compose up'
+alias dcbw='docker-compose build web'
 
 ----------------------------
 
